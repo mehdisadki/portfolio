@@ -3,7 +3,7 @@ import LoadingScreen from "./components/LoadingScreen";
 import NavBar from "./components/NavBar";
 import HeroSection from "./components/HeroSection";
 import SkillsSection from "./components/SkillsSection";
-import FormationsSection from "./components/Formationssection";
+import FormationsSection from "./components/FormationsSection";
 import ExperiencesSection from "./components/ExperiencesSection";
 import ProjectsSection from "./components/ProjectsSection";
 import ContactSection from "./components/ContactSection";
